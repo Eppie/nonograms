@@ -1,0 +1,9 @@
+
+
+    1
+    31233
+1,3 YNYYY
+3   NNYYY
+1,2 YNNYY
+1   YNNNN
+2   YYNNN
